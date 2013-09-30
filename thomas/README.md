@@ -1,0 +1,1 @@
+Please place your projects here, one project per folder in this directory.
