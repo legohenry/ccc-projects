@@ -1,0 +1,14 @@
+body {
+    background-color: #DDDDDD;
+}
+
+#box {
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    padding: 15px;
+    background-color: blue;
+    font-size: 18px;
+    color: #DDDDDD;
+    font-family: Lucida Console,monospace
+}
